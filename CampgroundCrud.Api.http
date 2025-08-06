@@ -1,0 +1,6 @@
+@CampgroundCrud.Api_HostAddress = http://localhost:5229
+
+GET {{CampgroundCrud.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
