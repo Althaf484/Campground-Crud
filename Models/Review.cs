@@ -7,5 +7,4 @@ public class Review
     public string Comment { get; set; } = String.Empty;
     public int CampgroundId { get; set; } 
 
-    public Campground Campground { get; set; } = null!;
 }
